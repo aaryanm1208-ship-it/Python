@@ -1,0 +1,1 @@
+Python Day 2 covers operators, user input, and type casting. This day focuses on understanding how Python handles calculations, comparisons, logical conditions, and real-world basic programs like calculators and interest calculation. This builds a strong foundation for control flow concepts in the next lessons.
