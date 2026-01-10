@@ -1,0 +1,6 @@
+numbers.append(6)
+numbers.insert(1, 99)
+numbers.remove(4)
+numbers.pop()
+numbers.sort()
+numbers.reverse()
