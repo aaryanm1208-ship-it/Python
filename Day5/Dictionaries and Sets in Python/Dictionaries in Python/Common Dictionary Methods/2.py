@@ -1,0 +1,5 @@
+student.keys()
+student.values()
+student.items()
+student.pop("course")
+student.update({"city": "Pune"})
