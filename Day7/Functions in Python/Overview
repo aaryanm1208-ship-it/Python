@@ -1,0 +1,3 @@
+Functions allow us to break a program into reusable, organized, and readable blocks of code. 
+This module focuses on defining functions, passing arguments, returning values, and understanding scope, which are essential for writing maintainable Python programs.
+
