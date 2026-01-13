@@ -1,0 +1,71 @@
+n=int(input("Any num"))
+for i in range(1 , 11):
+    print(n*i)
+    i+=1
+else:
+    print("loop ended")
+
+Output:=
+Any num 12
+12
+24
+36
+48
+60
+72
+84
+96
+108
+120
+loop ended
+
+=== Code Execution Successful ===
+
+
+
+for el in range(10):
+    pass
+print("HELLO")
+
+Output:=
+HELLO
+
+=== Code Execution Successful ===
+
+
+n=5
+sum=0
+for i in range(1 , n+1):
+    sum+=i
+print(sum)
+
+Output:=
+15
+
+
+
+def add_func(a , b):
+    s=a+b
+    return s
+    
+print(add_func(12 , 24))
+print(add_func(11 , 24))
+
+Output:=
+36
+35
+
+=== Code Execution Successful ===
+
+
+
+def avg(a , b , c):
+    average = (a+b+c)/3
+    print(average)
+
+avg(99 , 98 , 98.7)
+
+Output:=
+98.56666666666666
+
+=== Code Execution Successful ===
