@@ -1,0 +1,6 @@
+| Feature      | Recursion              | Iteration        |
+| ------------ | ---------------------- | ---------------- |
+| Code length  | Short                  | Longer           |
+| Memory usage | Higher                 | Lower            |
+| Readability  | High for tree problems | Better for loops |
+| Performance  | Slower                 | Faster           |
