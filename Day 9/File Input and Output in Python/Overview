@@ -1,0 +1,4 @@
+Overview
+
+File handling allows Python programs to store data permanently and read it later.
+This module covers reading from and writing to files using different file modes and demonstrates real-world data persistence techniques.
