@@ -1,0 +1,6 @@
+| Mode | Description        |
+| ---- | ------------------ |
+| `r`  | Read               |
+| `w`  | Write (overwrites) |
+| `a`  | Append             |
+| `r+` | Read and write     |
